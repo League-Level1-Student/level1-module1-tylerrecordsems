@@ -13,6 +13,6 @@ public class popcorn_runner {
 		heat.putInMicrowave(pop);
 		heat.setTime(times);
 		heat.startMicrowave();
-		pop.done();
+		heat.done();
 	}
 }

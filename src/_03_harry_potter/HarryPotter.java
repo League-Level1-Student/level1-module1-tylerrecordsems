@@ -26,6 +26,7 @@ public class HarryPotter {
 		System.out.println("casting spell: " + spell);
 	}
 
+	
 	void makeInvisible(boolean invisible) {
 		this.cloakOn = invisible;
 
